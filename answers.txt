@@ -2,3 +2,13 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare, since data scientists can look at previous year health data to make more data driven decisions
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: i don't know 
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: being done with this git section of hw1
+
