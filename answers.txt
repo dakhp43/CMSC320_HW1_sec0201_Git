@@ -14,7 +14,7 @@ Q4: What are you looking forward to this semester?
 
 Answer: Learning about data Science
 
+
 Q1: Why might we consider using Git?
-q1
 
 Answer: Git helps us with version control and collaberation with other people working on same project
