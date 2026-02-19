@@ -5,10 +5,13 @@ Answer: Healthcare, since data scientists can look at previous year health data 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: i don't know 
+Answer: Merging joins the branches that have unique "merge conflicts", while Rebasing rewrites the history by moving all future branches on top of master
+ 
 
 
 Q4: What are you looking forward to this semester?
 
-Answer: being done with this git section of hw1
+Answer: Learning about data Science
+
+
 
